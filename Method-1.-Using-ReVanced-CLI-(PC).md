@@ -79,6 +79,7 @@ java -jar revanced-cli-all.jar \
  -c \
  -d device-name \
  -o revanced-music.apk \
+ -m app-release-unsigned.apk \
  -b revanced-patches.jar \
  -e music-microg-support \
  --mount
