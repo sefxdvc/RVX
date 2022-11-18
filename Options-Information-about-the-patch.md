@@ -74,6 +74,11 @@ Using CLI: `-i amoled` `-e materialyou`
 
 Using CLI: `-i amoled` `-i materialyou`
 
+### If you don't want to make the player overlay button background color transparent:
+- Don't Select Remove Player Button Background
+
+Using CLI: `-e remove-player-button-background`
+
 ### If you want Force Premium Header:
 - Select Premium Heading
 
