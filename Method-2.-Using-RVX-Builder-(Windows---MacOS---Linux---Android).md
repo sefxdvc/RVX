@@ -35,6 +35,8 @@ Using RVX Builder (Windows / MacOS / Linux)
 
 ※ For most rvx-builder errors (PC environment), please refer to [this issue pages](https://github.com/inotia00/rvx-builder/issues/7)
 
+※ Please report any other issues on the [github issues page](https://github.com/inotia00/rvx-builder/issues).
+
 Using RVX Builder (Android - termux)
 ==
 - [How to use rvx builder on Android](https://github.com/inotia00/rvx-builder/wiki/How-to-use-rvx-builder-on-Android)
