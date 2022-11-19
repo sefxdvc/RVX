@@ -8,7 +8,7 @@ Like `ReVanced`, all source code for `ReVanced Extended` is open source and meet
 ## ​
 `ReVanced Extended` has all the features I personally wanted to implement in ReVanced
 
-As a result, most of the features that were in 'Vanced' / 'Vanced Extended' have been incorporated into 'ReVanced Extended'.
+As a result, most of the features that were in `Vanced` / `Vanced Extended` have been incorporated into 'ReVanced Extended'.
 ## ​
 `ReVanced Extended` is a project that I lead alone, not as a team.
 
