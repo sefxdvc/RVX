@@ -33,7 +33,7 @@ Using RVX Builder (Windows / MacOS / Linux)
 ==
 - Download the rvx-builder from [Latest releases](https://github.com/inotia00/rvx-builder/releases/latest), and Run
 
-※ For most rvx-builder (PC environment) errors, please refer to [this issue pages](https://github.com/inotia00/rvx-builder/issues/7)
+※ For most rvx-builder errors (PC environment), please refer to [this issue pages](https://github.com/inotia00/rvx-builder/issues/7)
 
 Using RVX Builder (Android - termux)
 ==
