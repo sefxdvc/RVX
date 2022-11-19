@@ -14,4 +14,4 @@ As a result, most of the features that were in `Vanced` / `Vanced Extended` have
 
 Therefore, it may be discontinued at any time due to my personal reasons.
 
-By the way, Thank you so much for visiting my tiny Github repository.
+By the way, Thank you so much for visiting my tiny Github repository :)
