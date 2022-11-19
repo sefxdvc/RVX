@@ -19,6 +19,15 @@ Common
 
 ※ You must download the `nodpi` version.
 
+### 3. Extra: Include / Exclude patches
+- I recommend including all, except for some patches.
+
+- Because ReVanced Extended is designed assuming all patches are included.
+
+- Also, since my patch does not support `settings-framework`, excluding the patch will not remove it from the Settings UI.
+
+- Read [this document](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch) for a list of patches you can include or exclude.
+
 
 Using RVX Builder (Windows / MacOS / Linux)
 ==
