@@ -9,8 +9,6 @@ As with `ReVanced`, all source code is open source and meets the GPL v3.0.
 `ReVanced Extended` has all the features I personally wanted to implement in ReVanced
 
 And finally, most of the features that were in `Vanced` / `Vanced Extended` / `ReVanced` are integrated.
-
-In other words, the relationship between `ReVanced` and `ReVanced Extended` can be compared to that between `NewPipe` and `NewPipe x Sponsorblock`.
 ## ​
 `ReVanced Extended` is a project that I lead alone, not as a team.
 
