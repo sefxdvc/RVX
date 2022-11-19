@@ -1,8 +1,8 @@
-Before start (Prerequisites)
+Requirements
 ==
 - ADB
 - x86/x86_64 host architecture
-- Zulu JDK 17/19
+- Zulu JDK 17
 
 Common
 ==
