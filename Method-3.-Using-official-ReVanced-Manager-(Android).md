@@ -48,7 +48,7 @@ Common
 
 ※ Also, since my patch does not support `settings-framework`, excluding the patch will not remove it from the Settings UI.
 
-※ Read [this document](https://github.com/inotia00/revanced-documentation/wiki/Options:-Information-about-the-patch#patches-that-need-to-be-included-or-excluded-depending-on-the-situation) for a list of patches you can include or exclude.
+※ Read [this document](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch) for a list of patches you can include or exclude.
 
 NON-ROOT environment
 ==
