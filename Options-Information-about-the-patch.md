@@ -13,15 +13,6 @@ Patches that need to be included or excluded depending on the situation
 
 Using CLI: `-e microg-support -e custom-package-name`(YouTube) or `-e music-microg-support -e custom-package-name-music`(YouTube Music)
 
-### If you want a Custom Package Name:
-- Select Custom Package Name
-
-Using CLI: `-i custom-package-name`(YouTube) or `-i custom-package-name-music`(YouTube Music)
-
-※ This patch option is for users who want to use the official ReVanced and ReVanced Extended at the same time.
-
-※ Caution: Be sure to include only **NON-ROOT** users.
-
 ### If you want a ReVanced Red Icon:
 - Select Custom Branding Icon Red
 - Don't Select Custom Branding Icon Blue
