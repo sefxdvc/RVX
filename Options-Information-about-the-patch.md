@@ -62,17 +62,25 @@ Using CLI: `-i custom-branding-name`
 
 Using CLI: `-e custom-branding-name`
 
-### If you want Black Theme:
-- Select Amoled
+### If you want Only Black Theme:
+- Select Theme
 - Don't Select Materialyou
 
-Using CLI: `-i amoled` `-e materialyou`
+Using CLI: `-i theme` `-e materialyou`
 
 ### If you want MaterialYou Theme (Only for Android 12+):
-- Select Amoled
+(Material Light Theme + Material Dark Theme)
+- Don't Select Theme
 - Select Materialyou
 
-Using CLI: `-i amoled` `-i materialyou`
+Using CLI: `-e theme` `-i materialyou`
+
+### If you want MaterialYou Theme (Only for Android 12+) + Black Theme:
+(Material Light Theme + Amoled Dark Theme)
+- Select Theme
+- Select Materialyou
+
+Using CLI: `-i theme` `-i materialyou`
 
 ### If you don't want to make the player overlay button background color transparent:
 - Don't Select Remove Player Button Background
@@ -80,15 +88,10 @@ Using CLI: `-i amoled` `-i materialyou`
 Using CLI: `-e remove-player-button-background`
 
 ### If you want Force Premium Header:
-- Select Premium Heading
+- Select Force Premium Heading
 
-Using CLI: `-i premium-heading`
+Using CLI: `-i force-premium-heading`
 
-※ Even if you do not select this patch option, you can toggle the Premium Header on/off in the Extended settings.
+※ Even if you do not select this patch option, you can toggle the Premium Header on/off in the Layout settings.
 
-※ If you select this patch option, the Premium Header is enforced and the Premium Header toggle is removed from the Extended settings.
-
-### If you don't want Website:
-- Don't Select Website
-
-Using CLI: `-e website`(YouTube) or `-e website-music`(YouTube Music)
+※ If you select this patch option, the Premium Header is enforced and the Premium Header toggle is removed from the Layout settings.
