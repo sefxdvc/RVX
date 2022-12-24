@@ -15,7 +15,7 @@ Common
 ​
 ### 1. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of revanced-patches for supported YouTube versions
 
-![ReVanced_Manager1](https://user-images.githubusercontent.com/108592928/202146941-ed3575a3-30d5-49a8-9f55-ff141a7c5f5b.png)
+![compatible](https://user-images.githubusercontent.com/108592928/209435297-fef7955b-db7e-4e16-80b7-23cee48a0754.png)
 
 ※ For YouTube Music, all versions are supported
 ​
@@ -73,10 +73,6 @@ When patching, please **exclude** the following patches
 - **`MicroG Support`** (YouTube)
 
 - **`Music MicroG Support`** (YouTube Music)
-
-- **`Custom Package Name`** (YouTube)
-
-- **`Custom Package Name Music`** (YouTube Music)
 
 I recommend installing the [Detach Magsik module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/) after patching.
 
