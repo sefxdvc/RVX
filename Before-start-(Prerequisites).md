@@ -14,7 +14,7 @@ Common
 ​
 ### 1. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of revanced-patches for supported YouTube versions
 
-![ReVanced_Manager1](https://user-images.githubusercontent.com/108592928/202146941-ed3575a3-30d5-49a8-9f55-ff141a7c5f5b.png)
+![compatible](https://user-images.githubusercontent.com/108592928/209435297-fef7955b-db7e-4e16-80b7-23cee48a0754.png)
 
 ※ For YouTube Music, all versions are supported
 ​
@@ -26,10 +26,8 @@ Common
 ※ You must download the `nodpi` version.
 
 ### 3. Extra: Include / Exclude patches
-- I recommend including all, except for some patches.
+- You can include or exclude all patches, except the ones below (The following patches must be included)
 
-- Because ReVanced Extended is designed assuming all patches are included.
-
-- Also, since my patch does not support `settings-framework`, excluding the patch will not remove it from the Settings UI.
+: `patch-options`
 
 - Read [this document](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch) for a list of patches you can include or exclude.
