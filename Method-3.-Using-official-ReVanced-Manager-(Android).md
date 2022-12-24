@@ -59,13 +59,6 @@ When patching, please **include** the following patches
 - **`Music MicroG Support`** (YouTube Music)
 
 
-If you want to install official ReVanced and ReVanced Extended at the same time, please include the following patches
-
-- **`Custom Package Name`** (YouTube)
-
-- **`Custom Package Name Music`** (YouTube Music)
-
-
 ROOT environment
 ==
 When patching, please **exclude** the following patches
