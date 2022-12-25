@@ -42,11 +42,9 @@ Common
 
 ![ReVanced_Manager5](https://user-images.githubusercontent.com/108592928/202160603-00138b03-821a-4ca8-b83a-57accc054f31.png)
 
-※ I recommend including all, except for some patches.
+※ You can include or exclude all patches, except the ones below (The following patches must be included)
 
-※ Because ReVanced Extended is designed assuming all patches are included.
-
-※ Also, since my patch does not support `settings-framework`, excluding the patch will not remove it from the Settings UI.
+: `patch-options`
 
 ※ Read [this document](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch) for a list of patches you can include or exclude.
 
