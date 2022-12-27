@@ -13,30 +13,30 @@ Patches that need to be included or excluded depending on the situation
 
 Using CLI: `-e microg-support -e custom-package-name`(YouTube) or `-e music-microg-support -e custom-package-name-music`(YouTube Music)
 
-### If you want a ReVanced Red Icon:
-- Select Custom Branding Icon Red
-- Don't Select Custom Branding Icon Blue
+### If you want a Afn Red Icon:
+- Select Custom Branding Icon Afn Red
+- Don't Select Custom Branding Icon Afn Blue
 - Don't Select Custom Branding Icon Revancify
 
-Using CLI: `-i custom-branding-icon-red` `-e custom-branding-icon-blue` `-e custom-branding-icon-revancify`
+Using CLI: `-i custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify`
 
-### If you want a ReVanced Blue Icon:
-- Don't Select Custom Branding Icon Red
-- Select Custom Branding Icon Blue
+### If you want a Afn Blue Icon:
+- Don't Select Custom Branding Icon Afn Red
+- Select Custom Branding Icon Afn Blue
 - Don't Select Custom Branding Icon Revancify
 
-Using CLI: `-e custom-branding-icon-red` `-i custom-branding-icon-blue` `-e custom-branding-icon-revancify`
+Using CLI: `-e custom-branding-icon-afn-red` `-i custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify`
 
 ### If you want a Revancify Icon:
-- Don't Select Custom Branding Icon Red
-- Don't Select Custom Branding Icon Blue
+- Don't Select Custom Branding Icon Afn Red
+- Don't Select Custom Branding Icon Afn Blue
 - Select Custom Branding Icon Revancify
 
-Using CLI: `-e custom-branding-icon-red` `-e custom-branding-icon-blue` `-i custom-branding-icon-revancify`
+Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-i custom-branding-icon-revancify`
 
 ### If you want the Original YouTube Icon:
-- Don't Select Custom Branding Icon Red
-- Don't Select Custom Branding Icon Blue
+- Don't Select Custom Branding Icon Afn Red
+- Don't Select Custom Branding Icon Afn Blue
 - Don't Select Custom Branding Icon Revancify
 
 Using CLI: `-e custom-branding-icon-red` `-e custom-branding-icon-blue` `-e custom-branding-icon-revancify`
