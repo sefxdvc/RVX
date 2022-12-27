@@ -11,7 +11,7 @@ Patches that need to be included or excluded depending on the situation
 - Don't Select MicroG Support
 - Don't Select Custom Package Name
 
-Using CLI: `-e microg-support -e custom-package-name`(YouTube) or `-e music-microg-support -e custom-package-name-music`(YouTube Music)
+Using CLI: `-e microg-support`(YouTube) or `-e music-microg-support`(YouTube Music)
 
 ### If you want a Afn Red Icon:
 - Select Custom Branding Icon Afn Red
