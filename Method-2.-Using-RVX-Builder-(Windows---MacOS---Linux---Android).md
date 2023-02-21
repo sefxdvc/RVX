@@ -8,14 +8,14 @@ Common
 ​
 ### 1. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of revanced-patches for supported YouTube versions
 
-![compatible](https://user-images.githubusercontent.com/108592928/209435297-fef7955b-db7e-4e16-80b7-23cee48a0754.png)
+![compatible](https://user-images.githubusercontent.com/108592928/220423797-b787341d-89e8-4613-b402-02f15b6e7e9f.png)
 
 ※ For YouTube Music, all versions are supported
 ​
 
 ### 2. Download the supported version of YouTube / YouTube Music from APKMirror and **_install it on your device._**
 
-![ReVanced_Manager2](https://user-images.githubusercontent.com/108592928/202147431-37ef69d0-4688-40c5-8280-0563ae27fdee.png)
+![ReVanced_Manager2](https://user-images.githubusercontent.com/108592928/220423945-219fd2d1-59ff-4420-9a05-dd7a8760ee1d.png)
 
 ※ You must download the `nodpi` version.
 
