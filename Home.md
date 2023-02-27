@@ -13,6 +13,7 @@ Instructions to build and install ReVanced Extended.
     - [Using RVX Builder (Windows, MacOS, Linux)](https://github.com/inotia00/revanced-documentation/wiki/Method-2.-Using-RVX-Builder-(Windows---MacOS---Linux---Android)#using-rvx-builder-windows--macos--linux)
     - [Using RVX Builder (Android - termux)](https://github.com/inotia00/revanced-documentation/wiki/Method-2.-Using-RVX-Builder-(Windows---MacOS---Linux---Android)#using-rvx-builder-android---termux)
   - [Method 3. Using official ReVanced Manager (Android)](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android))
+  - [Method 4. Using Revancify (Android - termux)](https://github.com/inotia00/revanced-documentation/wiki/Method-4.-Using-Revancify-(Android---termux))
     - [Information](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#information)
     - [Common](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#common)
     - [NON-ROOT environment](https://github.com/inotia00/revanced-documentation/wiki/Method-3.-Using-official-ReVanced-Manager-(Android)#non-root-environment)
