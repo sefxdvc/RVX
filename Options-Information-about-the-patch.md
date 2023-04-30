@@ -17,27 +17,44 @@ Using CLI: `-e microg-support`(YouTube) or `-e music-microg-support`(YouTube Mus
 - Select Custom Branding Icon Afn Red
 - Don't Select Custom Branding Icon Afn Blue
 - Don't Select Custom Branding Icon Revancify
+- Don't Select Custom Branding Icon Manual
 
-Using CLI: `-i custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify`
+Using CLI: `-i custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify` `-e custom-branding-icon-manual`
 
 ### If you want a Afn Blue Icon:
 - Don't Select Custom Branding Icon Afn Red
 - Select Custom Branding Icon Afn Blue
 - Don't Select Custom Branding Icon Revancify
+- Don't Select Custom Branding Icon Manual
 
-Using CLI: `-e custom-branding-icon-afn-red` `-i custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify`
+Using CLI: `-e custom-branding-icon-afn-red` `-i custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify` `-e custom-branding-icon-manual`
 
 ### If you want a Revancify Icon:
 - Don't Select Custom Branding Icon Afn Red
 - Don't Select Custom Branding Icon Afn Blue
 - Select Custom Branding Icon Revancify
+- Don't Select Custom Branding Icon Manual
 
-Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-i custom-branding-icon-revancify`
+Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-i custom-branding-icon-revancify` `-e custom-branding-icon-manual`
+
+### If you want a Custom Icon (Only available on CLI):
+- Don't Select Custom Branding Icon Afn Red
+- Don't Select Custom Branding Icon Afn Blue
+- Don't Select Custom Branding Icon Revancify
+- Select Custom Branding Icon Manual
+
+Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify` `-i custom-branding-icon-manual`
+
+More information:
+1. The first time you include the `Custom Branding Icon Manual` patch, the patch fails (which is normal).
+2. After that, a `branding` or `branding-music` directory will be created in the directory where the CLI is located.
+3. Replace the icon inside the `branding` or `branding-music` directory to the icon you want, then include the `Custom Branding Icon Manual` patch again.
 
 ### If you want the Original YouTube Icon:
 - Don't Select Custom Branding Icon Afn Red
 - Don't Select Custom Branding Icon Afn Blue
 - Don't Select Custom Branding Icon Revancify
+- Don't Select Custom Branding Icon Manual
 
 Using CLI: `-e custom-branding-icon-red` `-e custom-branding-icon-blue` `-e custom-branding-icon-revancify`
 
@@ -52,6 +69,13 @@ Using CLI: `-i custom-branding-name`
 - Don't Select Custom Branding Name
 
 Using CLI: `-e custom-branding-name`
+
+### If you want Stock YouTube Theme:
+- Don't Select Theme
+- Don't Select Materialyou
+
+Using CLI: `-e theme` `-e materialyou`
+
 
 ### If you want Only Black Theme:
 - Select Theme
