@@ -15,18 +15,19 @@ Common
 ​
 ### 1. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of revanced-patches for supported YouTube versions
 
-![compatible](https://user-images.githubusercontent.com/108592928/221310639-6bfd8d2c-ea9c-41af-b0c2-59ba1560fa3b.png)
+![support_version](https://user-images.githubusercontent.com/108592928/235959704-399a18fe-65fe-4280-82fe-0ffad955818f.png)
 
 ※ For YouTube Music, all versions are supported
 ​
 
 ### 2. Download the supported version of YouTube / YouTube Music from APKMirror and **_install it on your device._**
 
-![ReVanced_Manager3](https://user-images.githubusercontent.com/108592928/221310762-f85a6109-3246-4a4f-9c2b-04d0922238c6.png)
+![ReVanced_Manager3](https://user-images.githubusercontent.com/108592928/235961036-962de06d-b44e-4f06-b2ab-a4f6c3dc7d45.png)
 
 ※ You must download the `nodpi` version.
 
-### 3. Download [ReVanced Manager](https://github.com/revanced/revanced-manager/releases/latest) from the official repo and install it on your device
+
+### 3. Download [ReVanced Manager v0.0.57](https://github.com/revanced/revanced-manager/releases/tag/v0.0.57) from the official repo and install it on your device
 
 ※ Even if ReVanced Manager is already installed on the device, I recommend reinstalling it.
 
@@ -42,9 +43,7 @@ Common
 
 ![ReVanced_Manager5](https://user-images.githubusercontent.com/108592928/202160603-00138b03-821a-4ca8-b83a-57accc054f31.png)
 
-※ You can include or exclude all patches, except the ones below (The following patches must be included)
-
-: `patch-options`
+※ You can include or exclude all patches.
 
 ※ Read [this document](https://github.com/inotia00/revanced-documentation/wiki/Options-Information-about-the-patch) for a list of patches you can include or exclude.
 
