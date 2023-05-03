@@ -16,34 +16,34 @@ Using CLI: `-e microg-support`(YouTube) or `-e music-microg-support`(YouTube Mus
 ### If you want a Afn Red Icon:
 - Select Custom Branding Icon Afn Red
 - Don't Select Custom Branding Icon Afn Blue
-- Don't Select Custom Branding Icon Revancify
-- Don't Select Custom Branding Icon Manual
+- Don't Select Custom Branding Icon Revancify Red
+- Don't Select Custom Branding Icon Revancify Blue
 
-Using CLI: `-i custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify` `-e custom-branding-icon-manual`
+Using CLI: `-i custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
 
 ### If you want a Afn Blue Icon:
 - Don't Select Custom Branding Icon Afn Red
 - Select Custom Branding Icon Afn Blue
-- Don't Select Custom Branding Icon Revancify
-- Don't Select Custom Branding Icon Manual
+- Don't Select Custom Branding Icon Revancify Red
+- Don't Select Custom Branding Icon Revancify Blue
 
-Using CLI: `-e custom-branding-icon-afn-red` `-i custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify` `-e custom-branding-icon-manual`
+Using CLI: `-e custom-branding-icon-afn-red` `-i custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
 
-### If you want a Revancify Icon:
+### If you want a Revancify Red Icon:
 - Don't Select Custom Branding Icon Afn Red
 - Don't Select Custom Branding Icon Afn Blue
-- Select Custom Branding Icon Revancify
-- Don't Select Custom Branding Icon Manual
+- Select Custom Branding Icon Revancify Red
+- Don't Select Custom Branding Icon Revancify Blue
 
-Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-i custom-branding-icon-revancify` `-e custom-branding-icon-manual`
+Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-i custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
 
-### If you want a Custom Icon (Only available on CLI):
+### If you want a Revancify Blue Icon:
 - Don't Select Custom Branding Icon Afn Red
 - Don't Select Custom Branding Icon Afn Blue
-- Don't Select Custom Branding Icon Revancify
-- Select Custom Branding Icon Manual
+- Don't Select Custom Branding Icon Revancify Red
+- Select Custom Branding Icon Revancify Blue
 
-Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify` `-i custom-branding-icon-manual`
+Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify-red` `-i custom-branding-icon-revancify-blue`
 
 More information:
 1. The first time you include the `Custom Branding Icon Manual` patch, the patch fails (which is normal).
