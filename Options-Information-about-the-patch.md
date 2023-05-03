@@ -45,18 +45,13 @@ Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` 
 
 Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify-red` `-i custom-branding-icon-revancify-blue`
 
-More information:
-1. The first time you include the `Custom Branding Icon Manual` patch, the patch fails (which is normal).
-2. After that, a `branding` or `branding-music` directory will be created in the directory where the CLI is located.
-3. Replace the icon inside the `branding` or `branding-music` directory to the icon you want, then include the `Custom Branding Icon Manual` patch again.
-
 ### If you want the Original YouTube Icon:
 - Don't Select Custom Branding Icon Afn Red
 - Don't Select Custom Branding Icon Afn Blue
-- Don't Select Custom Branding Icon Revancify
-- Don't Select Custom Branding Icon Manual
+- Don't Select Custom Branding Icon Revancify Red
+- Don't Select Custom Branding Icon Revancify Blue
 
-Using CLI: `-e custom-branding-icon-red` `-e custom-branding-icon-blue` `-e custom-branding-icon-revancify`
+Using CLI: `-e custom-branding-icon-red` `-e custom-branding-icon-blue` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
 
 ### If you want a Custom App Name:
 - Select Custom Branding Name
