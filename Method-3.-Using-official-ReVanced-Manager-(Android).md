@@ -66,4 +66,4 @@ When patching, please **exclude** the following patches
 
 I recommend installing the [Detach Magsik module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/) after patching.
 
-※ [Detach Magsik module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/) prevents automatic updates by Google Playstore. (Prevent crashes from occurring in the ROOT environment)
+※ [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/) prevents automatic updates by Google Playstore. (Prevent crashes from occurring in the ROOT environment)
