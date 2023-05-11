@@ -64,6 +64,6 @@ When patching, please **exclude** the following patches
 
 - **`Music MicroG Support`** (YouTube Music)
 
-I recommend installing the [Detach Magsik module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/) after patching.
+I recommend installing the [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/) after patching.
 
 ※ [Detach Magisk module](https://forum.xda-developers.com/t/module-detach3-detach-market-links.3447494/) prevents automatic updates by Google Playstore. (Prevent crashes from occurring in the ROOT environment)
