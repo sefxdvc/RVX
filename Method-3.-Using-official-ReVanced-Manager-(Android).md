@@ -27,7 +27,7 @@ Common
 ※ You must download the `nodpi` version.
 
 
-### 3. Download [ReVanced Manager v0.0.57](https://github.com/revanced/revanced-manager/releases/tag/v0.0.57) from the official repo and install it on your device
+### 3. Download [ReVanced Manager v1.1.0](https://github.com/revanced/revanced-manager/releases/tag/v1.1.0) from the official repo and install it on your device
 
 ※ Even if ReVanced Manager is already installed on the device, I recommend reinstalling it.
 
