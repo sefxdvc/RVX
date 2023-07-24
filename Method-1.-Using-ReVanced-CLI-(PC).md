@@ -30,7 +30,7 @@ adb install -r youtube.apk
 adb install -r youtube-music.apk
 ```
 
-3-1. Run the CLI (YouTube)
+3. Run the CLI
 ```
 # Non-Root
 # For YouTube, use the option '--rip-lib' to remove the architecture (e.g. --rip-lib=x86 --rip-lib=x86_64 ...)
@@ -46,7 +46,7 @@ java -jar revanced-cli-all.jar \
 # Root
 # For YouTube, use the option '--rip-lib' to remove the architecture (e.g. --rip-lib=x86 --rip-lib=x86_64 ...)
 # In the case of YouTube you want to exlude the patch 'microg-support' with the option '-e'.
-# The option '-e' allows you to exclude patches (e.g. -e microg-support -e amoled ...).
+# The option '-e' allows you to exclude patches (e.g. -e microg-support -e theme ...).
 # The option '-i' allows you to include patches (e.g. -i materialyou ...)
 
 java -jar revanced-cli-all.jar \
@@ -60,29 +60,5 @@ java -jar revanced-cli-all.jar \
  --mount
 ```
 
-3-2. Run the CLI (YouTube Music)
-```
-# Non-Root
-
-java -jar revanced-cli-all.jar \
- -a youtube-music.apk \
- -c \
- -o revanced-music.apk \
- -b revanced-patches.jar
-
-
-# Root
-# In the case of YouTube you want to exlude the patch 'music-microg-support' with the option '-e'. The option '-e' allows you to exclude patches (e.g. -e music-microg-support ...)
-
-java -jar revanced-cli-all.jar \
- -a youtube-music.apk \
- -c \
- -d device-name \
- -o revanced-music.apk \
- -m app-release-unsigned.apk \
- -b revanced-patches.jar \
- -e music-microg-support \
- --mount
-```
 
 If you need the list of patches available, pass in `-l`.
