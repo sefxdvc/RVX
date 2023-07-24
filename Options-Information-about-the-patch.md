@@ -11,59 +11,47 @@ Patches that need to be included or excluded depending on the situation
 - Don't Select MicroG Support
 - Don't Select Custom Package Name
 
-Using CLI: `-e microg-support`(YouTube) or `-e music-microg-support`(YouTube Music)
-
-### If you want a Afn Red Icon:
-- Select Custom Branding Icon Afn Red
-- Don't Select Custom Branding Icon Afn Blue
-- Don't Select Custom Branding Icon Revancify Red
-- Don't Select Custom Branding Icon Revancify Blue
-
-Using CLI: `-i custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
-
-### If you want a Afn Blue Icon:
-- Don't Select Custom Branding Icon Afn Red
-- Select Custom Branding Icon Afn Blue
-- Don't Select Custom Branding Icon Revancify Red
-- Don't Select Custom Branding Icon Revancify Blue
-
-Using CLI: `-e custom-branding-icon-afn-red` `-i custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
+Using CLI: `-e microg-support`
 
 ### If you want a Revancify Red Icon:
-- Don't Select Custom Branding Icon Afn Red
-- Don't Select Custom Branding Icon Afn Blue
+- Don't Select Custom Branding Icon MMT
 - Select Custom Branding Icon Revancify Red
 - Don't Select Custom Branding Icon Revancify Blue
 
-Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-i custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
+Using CLI: `-e custom-branding-icon-mmt` `-i custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
 
 ### If you want a Revancify Blue Icon:
-- Don't Select Custom Branding Icon Afn Red
-- Don't Select Custom Branding Icon Afn Blue
+- Don't Select Custom Branding Icon MMT
 - Don't Select Custom Branding Icon Revancify Red
 - Select Custom Branding Icon Revancify Blue
 
-Using CLI: `-e custom-branding-icon-afn-red` `-e custom-branding-icon-afn-blue` `-e custom-branding-icon-revancify-red` `-i custom-branding-icon-revancify-blue`
+Using CLI: `-e custom-branding-icon-mmt` `-e custom-branding-icon-revancify-red` `-i custom-branding-icon-revancify-blue`
 
-### If you want the Original YouTube Icon:
-- Don't Select Custom Branding Icon Afn Red
-- Don't Select Custom Branding Icon Afn Blue
+### If you want a MMT Icon:
+- Select Custom Branding Icon MMT
 - Don't Select Custom Branding Icon Revancify Red
 - Don't Select Custom Branding Icon Revancify Blue
 
-Using CLI: `-e custom-branding-icon-red` `-e custom-branding-icon-blue` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
+Using CLI: `-i custom-branding-icon-mmt` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
+
+### If you want the Original YouTube Icon:
+- Don't Select Custom Branding Icon MMT
+- Don't Select Custom Branding Icon Revancify Red
+- Don't Select Custom Branding Icon Revancify Blue
+
+Using CLI: `-e custom-branding-icon-mmt` `-e custom-branding-icon-revancify-red` `-e custom-branding-icon-revancify-blue`
 
 ### If you want a Custom App Name:
-- Select Custom Branding Name
+- Select Custom Branding YouTube Name / Custom Branding Music Name
 
-Using CLI: `-i custom-branding-name`
+Using CLI: `-i custom-branding-youtube-name` `-i custom-branding-music-name`
 
 ※ You can change the app name directly by opening `options.toml` in an editor. (Default: ReVanced Extended)
 
-### If you want the Original YouTube App Name:
-- Don't Select Custom Branding Name
+### If you want the Original App Name:
+- Don't Select Custom Branding YouTube Name / Custom Branding Music Name
 
-Using CLI: `-e custom-branding-name`
+Using CLI: `-e custom-branding-youtube-name` `-e custom-branding-music-name`
 
 ### If you want Stock YouTube Theme:
 - Don't Select Theme
