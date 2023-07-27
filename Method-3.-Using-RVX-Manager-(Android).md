@@ -19,31 +19,34 @@ Common
 ​
 ### 1. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of revanced-patches for supported YouTube versions
 
-![support_version](https://github.com/inotia00/revanced-documentation/assets/108592928/8b0cf17d-e536-414e-923a-5c37fdc309dd)
+![support_version](https://github.com/inotia00/revanced-documentation/assets/108592928/4d246d7d-9528-4691-b9d2-003a85a2d627)
 
 ※ For YouTube Music, all versions are supported
 ​
 
 ### 2. Download the supported version of YouTube / YouTube Music from APKMirror and **_install it on your device._**
 
-![apkmirror](https://github.com/inotia00/revanced-documentation/assets/108592928/f0bc6720-3c37-41b0-a689-216dd38cea8d)
+![apkmirror2](https://github.com/inotia00/revanced-documentation/assets/108592928/48dd9182-7938-4e8e-a025-73327ff7a6a4)
 
 ※ You must download the `nodpi` version.
 
 
 ### 3. Download [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest) from the github and install it on your device
 
+
 ### 4. Launch RVX Manager and click `Select an application`.
 
 ![1](https://github.com/inotia00/revanced-documentation/assets/108592928/22ca109b-abd6-4d1a-95e9-1576c0bcb205)
 
+
 ### 5. Click the `Storage` button and select the YouTube APK that you downloaded from APKMirror
 
-![2](https://github.com/inotia00/revanced-documentation/assets/108592928/2ff47b47-a3af-424b-ae53-69377d2ee5d1)
+![2-1](https://github.com/inotia00/revanced-documentation/assets/108592928/98ea9457-29fb-48ab-bab2-c38baef91e53)
+
 
 ### 6. Click `Selected patches` and include or exclude the patches you want
 
-![3](https://github.com/inotia00/revanced-documentation/assets/108592928/06d1567f-55a4-420a-9818-877f7339e141)
+![3-1](https://github.com/inotia00/revanced-documentation/assets/108592928/6c0bcd02-93e6-44eb-abeb-30ab1e3081cb)
 
 - If you don't know what to decide, just click the `Default` button
 
