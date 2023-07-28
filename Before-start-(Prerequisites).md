@@ -14,14 +14,14 @@ Common
 ​
 ### 1. Check the [README.md](https://github.com/inotia00/revanced-patches/tree/revanced-extended#-json-format) of revanced-patches for supported YouTube versions
 
-![support_version](https://github.com/inotia00/revanced-documentation/assets/108592928/8b0cf17d-e536-414e-923a-5c37fdc309dd)
+![support_version](https://github.com/inotia00/revanced-documentation/assets/108592928/4d246d7d-9528-4691-b9d2-003a85a2d627)
 
 ※ For YouTube Music, all versions are supported
 ​
 
 ### 2. Download the supported version of YouTube / YouTube Music from APKMirror and **_install it on your device._**
 
-![apkmirror](https://github.com/inotia00/revanced-documentation/assets/108592928/f0bc6720-3c37-41b0-a689-216dd38cea8d)
+![apkmirror2](https://github.com/inotia00/revanced-documentation/assets/108592928/48dd9182-7938-4e8e-a025-73327ff7a6a4)
 
 ※ You must download the `nodpi` version.
 
